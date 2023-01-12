@@ -8,7 +8,7 @@ Full Cycle Rocks!
 Lista de nomes cadastrada no banco de dados.
 
 
-Portanto, siga o passo a passo a seguir: 
+Portanto, para obter o resultado esperado, siga o passo a passo a seguir: 
 
 Rode o comando:
 
