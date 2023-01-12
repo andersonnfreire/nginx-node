@@ -7,9 +7,8 @@ O retorno da aplicação node.js para o nginx deverá ser:
 
 - Lista de nomes cadastrada no banco de dados.
 
-Rode o comando: 
-- docker compose up -d
 
-Retorno: 
 
-![image](https://user-images.githubusercontent.com/58008549/211970193-52b810c7-9dab-400d-9df0-0682b68d4260.png)
+Rode o comando: docker compose up -d
+
+Retorno: ![image](https://user-images.githubusercontent.com/58008549/211970193-52b810c7-9dab-400d-9df0-0682b68d4260.png)
